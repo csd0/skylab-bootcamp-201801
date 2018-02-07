@@ -1,3 +1,9 @@
+![React nightmare!](images/react-nightmare.jpg)
+
+# Component's lifecycle
+
+![Component's lifecycle](images/react-lifecycle.png)
+
 # References
 
 [Introduction to React Data Flow](http://blog.embengineering.com/post/2016/04/16/introduction-to-react-data-flow/)
@@ -13,3 +19,7 @@
 [Tutorial: JSX](http://buildwithreact.com/tutorial/jsx)
 
 [Draft: JSX Specification](https://facebook.github.io/jsx/)
+
+[Smart and Dumb Components in React](https://jaketrent.com/post/smart-dumb-components-react/)
+
+[Presentational and container React components](http://krasimirtsonev.com/blog/article/react-js-presentational-container-components)
